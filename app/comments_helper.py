@@ -33,6 +33,6 @@ def get_default_comment():
     return Comment(
         str(random.randint(1, 100)),
         str(random.randint(1, 100)),
-        'some comment',
+        'John Snou',
         'test@gmail.com',
         'lorem ipsum dolor sit amet')
